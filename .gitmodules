@@ -1,0 +1,4 @@
+[submodule "synaptic-plasticity-drosophila"]
+	path = synaptic-plasticity-drosophila
+	url = ./synaptic-plasticity-drosophila
+	datalad-id = c17e4f3a-e6e2-4309-83ca-0cd8bfa1b5d7
