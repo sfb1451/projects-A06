@@ -1,0 +1,17 @@
+abstract: Project A06 investigates the interactions between the motor cortex and sensory
+  afferents during normal and pathological motor behaviour using a reversible model
+  of cerebellar ataxia in monkeys. Invasive simultaneous recordings from the motor
+  cortex, somatosensory cortex, and corresponding thalamic nuclei during multi-joint
+  reaching tasks with different perturbations of information flow through these pathways
+  will complement theoretical network models predicting electrophysiological effects
+  and behavioural changes.
+authors:
+- {family-names: Nawrot, given-names: Martin}
+- {family-names: Prut, given-names: Yfat}
+- {family-names: Israely, given-names: Sharon}
+- {family-names: Rostami, given-names: Vahid}
+- {family-names: Springer, given-names: Magdalena}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'A06: Sensory-motor pathways controlling voluntary movements in health and
+  disease'

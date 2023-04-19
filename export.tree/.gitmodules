@@ -1,0 +1,5 @@
+[submodule "synaptic-plasticity-drosophila"]
+	path = synaptic-plasticity-drosophila
+	url = https://github.com/sfb1451/A06_synaptic-plasticity-drosophila.git
+	datalad-id = c17e4f3a-e6e2-4309-83ca-0cd8bfa1b5d7
+	datalad-url = https://github.com/sfb1451/A06_synaptic-plasticity-drosophila.git
