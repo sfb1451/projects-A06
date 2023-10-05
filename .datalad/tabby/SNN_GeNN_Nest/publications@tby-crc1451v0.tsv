@@ -1,0 +1,4 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-publications		
+# bold indicates required			
+citation	doi	url	date
+Schmitt FJ, Rostami V and Nawrot MP (2023) Efficient parameter calibration and real-time simulation of large-scale spiking neural networks with GeNN and NEST. Front. Neuroinform. 17:941696.	https://doi.org/10.3389/fninf.2023.941696		2023

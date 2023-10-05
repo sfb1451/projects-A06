@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-																			
+# bold indicates required																				
+name	SNN_GeNN_Nest																			
+title	Efficient parameter calibration and real-time simulation of large scale spiking neural networks with GeNN and NEST																			
+description	This repository contains all accompanying code to reproduce the figures of the following paper:  Felix Schmitt, Vahid Rostami, Martin Nawrot, Efficient parameter calibration and real-time simulation of large scale spiking neural networks with GeNN and NEST																			
+crc-project	A06																			
+version	126cf80a74692b68f040fbcfba0c51686d455417																			
+sample[organism]	NCBITaxon:9539																			
+sample[organism-part]	UBERON_0001384																			
+keywords	computational neuroscience	attractor neural network	metastability	real-time simulation	computational neuroethology	spiking neural network (SNN)														
+license																				
+doi																				
+homepage	https://github.com/nawrotlab/SNN_GeNN_Nest																			
+last-updated	2022-11-08 00:00:00																			
