@@ -1,0 +1,5 @@
+[submodule "FFLearning-Sophie_data"]
+	path = FFLearning-Sophie_data
+	url = git@github.com:sfb1451/A06_FFLearning-Sophie_data.git
+	datalad-id = 239da43f-6aa6-4248-92b7-7415dd0991ed
+	datalad-url = git@github.com:sfb1451/A06_FFLearning-Sophie_data.git
