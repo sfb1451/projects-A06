@@ -6,7 +6,7 @@ description	This repository contains all accompanying code to reproduce the figu
 crc-project	A06																			
 version	126cf80a74692b68f040fbcfba0c51686d455417																			
 sample[organism]	NCBITaxon:9539																			
-sample[organism-part]	UBERON_0001384																			
+sample[organism-part]	UBERON:0001384																			
 keywords	computational neuroscience	attractor neural network	metastability	real-time simulation	computational neuroethology	spiking neural network (SNN)														
 license																				
 doi																				
