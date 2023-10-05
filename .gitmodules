@@ -3,3 +3,8 @@
 	url = git@github.com:sfb1451/A06_FFLearning-Sophie_data.git
 	datalad-id = 239da43f-6aa6-4248-92b7-7415dd0991ed
 	datalad-url = git@github.com:sfb1451/A06_FFLearning-Sophie_data.git
+[submodule "FFLearning-Penny_data"]
+	path = FFLearning-Penny_data
+	url = git@github.com:sfb1451/A06_FFLearning-Penny_data.git
+	datalad-id = 0a598dbb-fbd6-470d-9214-7c86992c884b
+	datalad-url = git@github.com:sfb1451/A06_FFLearning-Penny_data.git
