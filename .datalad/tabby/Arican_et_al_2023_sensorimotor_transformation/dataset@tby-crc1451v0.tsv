@@ -1,0 +1,13 @@
+# Documentation at https://rdm.sfb1451.de/data-catalog-submission
+name	Arican_et_al_2023_sensorimotor_transformation
+title	Sensorimotor transformation
+description	This repository contains data collected during the experiments described in "The mushroom body output encodes behavioral decision during sensory-motor transformation" (Arican et al. (2023)). The data includes spike times and stimulation protocols for olfactory stimuli. Additionally, behavioral data and normalized PID recordings are provided.
+crc-project	A06	INF
+version	95e32d39603a07a4eafe81ff424e54409942b09f
+sample[organism]	NCBITaxon:6978
+sample[organism-part]	UBERON:0001058
+keywords	cockroach	sensorimotor adaptation	mushroom body output
+license	https://creativecommons.org/publicdomain/zero/1.0/
+doi	https://doi.org/10.1016/j.cub.2023.08.016
+homepage	https://gin.g-node.org/nawrotlab/Arican_et_al_2023_sensorimotor_transformation
+last-updated	2023-08-21
